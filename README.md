@@ -1,2 +1,3 @@
-# wstan-dart
-Wstan server implemented in Dart
+# wstan_dart
+
+A sample command-line application.
