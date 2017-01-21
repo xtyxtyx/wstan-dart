@@ -1,3 +1,3 @@
 # wstan_dart
 
-A sample command-line application.
+Status: Develop stops until Dart has a __real__ crypto library
